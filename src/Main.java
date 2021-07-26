@@ -1,8 +1,4 @@
-package com.latihan;
-
 import java.util.Scanner;
-import CRUD.Operasi;
-import CRUD.Utility;
 
 public class Main {
 
